@@ -1,0 +1,42 @@
+/*	To include the styleheet of David's Resources in your site, add this line to your HTML:	*/
+/*<link rel="stylesheet" type="text/css" href="https://goo.gl/c5H4Jx">	*/
+/*	+-------------------------------------------------------+	*/
+/*	|	See readme for further info on this style	|	*/
+/*	+-------------------------------------------------------+	*/
+/*	--------	*/
+/*    Standard Tags	*/
+/*	--------	*/
+.html	{
+	}
+.body	{
+	width: 760px;
+	display: block;
+	margin: auto;
+	background-color: #F9DC50;
+	box-shadow: 6px 6px 3px #413005;
+	}
+.header	{
+	}
+.nav	{
+	}
+.main	{
+	}
+.footer	{
+	}
+/*	--------	*/
+/*	  Text		*/
+/*	--------	*/
+.content{
+	color: #443308;
+	}
+.title	{
+	color: #AC7E0E;
+	text-shadow: 2px 2px 2px #A77810;
+	}
+.heading{
+	color: #C3910C;
+	text-shadow: 1px 1px 1px #413005;
+	}
+.ftext	{
+	color: #7B5B0E;
+	}
