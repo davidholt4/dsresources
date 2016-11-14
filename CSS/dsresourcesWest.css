@@ -1,5 +1,5 @@
 /*	To include the styleheet of David's Resources in your site, add this line to your HTML:	*/
-/*<link rel="stylesheet" type="text/css" href="https://goo.gl/c5H4Jx">	*/
+/*<link rel="stylesheet" type="text/css" href="https://goo.gl/EkLTcJ">	*/
 /*	+-------------------------------------------------------+	*/
 /*	|	See readme for further info on this style	|	*/
 /*	+-------------------------------------------------------+	*/
@@ -26,17 +26,22 @@
 /*	--------	*/
 /*	  Text		*/
 /*	--------	*/
-.content{
+.content{	/*	This class is for the p tags located in the body	*/
 	color: #443308;
+	text-align: justify;
 	}
-.title	{
+.title	{	/*	This class is for the h1 tag	*/
+	text-align: center;
 	color: #AC7E0E;
 	text-shadow: 2px 2px 2px #A77810;
+	background-color: #443308;
+	border-radius: 25px;
 	}
-.heading{
+.heading{	/*	This class is for the h2 thru h6 tag	*/
+	text-align: left;
 	color: #C3910C;
 	text-shadow: 1px 1px 1px #413005;
 	}
-.ftext	{
+.ftext	{	/*	This class is for the p tags located in the footer	*/
 	color: #7B5B0E;
 	}
